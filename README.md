@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi There 👋
 
 I'm a recent graduate at the Tippie College of Business, University of Iowa. My major is business analytics and information systems (BAIS).
 
